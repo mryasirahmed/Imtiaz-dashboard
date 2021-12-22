@@ -4,7 +4,7 @@
 Sales Dashboard - Karachi Superstore built in Python and the Streamlit library to visualize the Excel POS data.
 
 ## Demo
-Sales Dashboard: https://dashboard-cis.herokuapp.com/
+Sales Dashboard: https://share.streamlit.io/mryasirahmed/imtiaz-dashboard/main/app.py
 
 ## Screenshot
 
